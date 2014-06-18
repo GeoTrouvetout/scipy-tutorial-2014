@@ -27,3 +27,9 @@ Duration
 --------
 
 The tutorial will cover four hours
+
+
+Execution
+---------
+
+Geoffrey Roman-Jimenez did a modification
